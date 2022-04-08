@@ -1,0 +1,33 @@
+Agustín Capogrossi
+
+Para ejecutar:
+	
+	spline_velocidad.py:
+		python3 spline_velocidad.py
+		
+	trapecio_adaptativo.py:
+		python3 trapecio_adaptativo.py
+		python3
+		from trapecio_adaptativo import trapecio_adaptativo
+		trapecio_adaptativo([0.0, 0.22, 0.85, 1.0, 1.5, 1.6, 1.99],[0.0,0.1,-0.15,-0.03,0.75,-0.3,0.01])
+	
+	posicion_particula.py:
+		python3 posicion_particula.py
+		python3
+		from posicion_particula import posicion_particula
+		posicion_particula([0.0, 0.22, 0.85, 1.0, 1.5, 1.6, 1.99],[0.0,0.1,-0.15,-0.03,0.75,-0.3,0.01])
+	
+	gseidel.py: (No conseguí implementar las actualizaciones con soltrinf)
+		python3 gseidel.py
+		python3
+		from gseidel import gseidel
+		gseidel([[3,1,1],[2,6,1],[1,1,4]], [5,9,6], 10**(-11), 10)
+			
+	SOR.py: (No conseguí implementar las actualizaciones con soltrinf)
+		python3 SOR.py
+		python3
+		from SOR import SOR
+		SOR([[3,1,1],[2,6,1],[1,1,4]], [5,9,6],1.5, 10**(-11), 10)
+		
+	optimizacion.py: (No pude implementar el inciso c)
+		python3 optimizacion.py

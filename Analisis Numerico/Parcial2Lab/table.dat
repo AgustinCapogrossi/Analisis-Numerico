@@ -1,0 +1,11 @@
+# Created by Octave 3.2.4, Fri May 04 10:22:16 2012 ART <mlares@veda>
+# name: td
+# type: matrix
+# rows: 1
+# columns: 7
+ 0 0.22 0.85 1 1.5 1.6 1.99
+# name: yd
+# type: matrix
+# rows: 1
+# columns: 7
+ 0 0.1 -0.15 -0.03 0.75 -0.3 0.01
